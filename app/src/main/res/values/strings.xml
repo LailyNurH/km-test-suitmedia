@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">suitmedia-test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="selected_name_user">Selected Name User</string>
+    <string name="close">Close</string>
+    <string name="cancle">Cancle</string>
+</resources>
